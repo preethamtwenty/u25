@@ -1,0 +1,70 @@
+.app{
+    
+    
+    background-color:#F0F2F5 !important;
+   
+    
+    margin-top:30px;
+    height: fit-content;
+    
+    
+
+}
+.app_body{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    
+   
+    
+   
+}
+.app_sidebar{
+    flex:0.25;
+    margin-top:170px;
+    padding-left:20px;
+}
+.app_post{
+    
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:130px;
+    flex:0.45;
+}
+.app_rightsidebar{
+    flex:0.25;
+}
+.Login{
+    background-color: #BFE5E6;
+}
+
+.posts_comment{
+    margin-left:auto;
+    margin-right:auto;
+    
+    height:600px;
+    margin-top:130px;
+    width: 100%;
+    
+    
+    flex:0.45;
+}
+@media screen and (max-width: 540px) {
+    .app_body{
+        width: 100%;
+        height: 100%;
+        display:block;
+    }
+    .app_post{
+    
+        margin-left:auto;
+        margin-right:auto;
+        margin-top:130px;
+        padding:60px;
+        flex:1;
+    }
+    .app_sidebar{
+        
+        display: none;
+    }
+  }

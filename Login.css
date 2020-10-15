@@ -1,0 +1,113 @@
+.login{
+    margin-left:auto !important;
+    margin-right:auto !important;
+    display:block;
+    width:30%;
+    padding-top:100px;
+    height:1000px;
+    
+}
+.login_email{
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:40px;
+    margin-right:40px;
+    
+}
+.login_password{
+    
+    margin-bottom:20px;
+    margin-left:40px;
+    margin-right:40px;
+   
+
+}
+.input_password{
+    margin-bottom:50px;
+   
+    border:none;
+    border-bottom:1px solid black;
+    
+    
+    padding-top:3px;
+    width:100%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.input_email{
+    margin-top:50px;
+    padding-top:3px;
+    width:100%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    border:none;
+    border-bottom:1px solid black;
+}
+.login_box{
+    background-color:white;
+    
+    
+}
+.login_header{
+    color:black!important;
+    font-size:45px!important;
+    font-family: 'Waiting for the Sunrise', cursive !important;
+    font-weight: bolder !important;
+}
+.button_login{
+    background-color: #BFE5E6;
+    border:0.5px solid black;
+    margin-bottom:30px;
+    width:80%;
+    padding:5px;
+}
+.input_email:focus{
+    outline:none;
+}
+.input_password:focus{
+    outline:none;
+}
+.border_footer{
+    border-top:0.5px solid grey;
+    width:50%;
+    margin-bottom:20px;
+
+}
+.button_createaccount{
+    background-color: #40d447;
+    border:0.5px solid rgb(150, 150, 150);
+    margin-bottom:30px;
+    width:50%;
+    padding:5px;
+}
+.button_createaccount:hover{
+    background-color: #31a127;
+
+}
+.button_login:hover{
+    
+    background-color: #9ffcff;
+}
+.app_login{
+    margin-top:40px;
+}
+.sign_name{
+    margin-top:50px;
+    padding-top:3px;
+    width:60%;
+    
+    border:none;
+    
+}
+.sign_email{
+    margin-top:20px;
+    padding-top:3px;
+    width:60%;
+    
+    border:none;
+    
+}
+
+.login_text{
+    margin-top:40px;
+    
+}

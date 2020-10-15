@@ -1,0 +1,31 @@
+.header{
+    position: fixed;
+    top:0px;
+    z-index: 100;
+    width:100%;
+}
+.custom_navbar{
+    
+    background-color:white!important;
+}
+
+.custom_navbar_brand{
+    color:black!important;
+    font-size:25px!important;
+    font-family: 'Waiting for the Sunrise', cursive !important;
+    font-weight: bolder !important;
+}
+.mr-auto{
+    position: absolute;
+    right:30px;
+}
+.header_dropdown{
+    color:rgb(0, 0, 0);
+    font-size:2em!important;
+}
+.dropdown_user{
+    display:flex;
+    
+    border-radius:3px;
+    padding:5px;
+}
